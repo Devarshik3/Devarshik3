@@ -1,5 +1,11 @@
 # 💫 About Me:
-Web Developer <br>CMS Developer<br>Learning Python <br>AI/ML Passionate
+🤝 I’m looking for help with: AI/ML, Data Science tools
+<br>
+🌱 I’m currently learning: Data Science with Python
+<br>
+💬 Ask me about: Astronomy
+<br>
+⚡ Fun fact: <b> If you find any errors in your code, stay calm and cool—it's probably just an unwanted comma!
 
 
 ## 🌐 Socials:
