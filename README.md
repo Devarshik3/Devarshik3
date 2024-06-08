@@ -1,4 +1,8 @@
 # 💫 About Me:
+<h3> Hello!!</h3>
+<p>I'm a final-year Computer Science Student. My all tasks are uploaded. Here, let's collab and help each other with our works. 
+Feel free to contact me regarding any of the related subjects. Also, I am an astronmy enthusiast, might help out soomeone!
+ </p>
 <br>
 🌱 I’m currently learning: Data Science with Python
 <br>
