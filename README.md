@@ -1,7 +1,8 @@
 # 💫 About Me:
-🤝 I’m looking for help with: AI/ML, Data Science tools
 <br>
 🌱 I’m currently learning: Data Science with Python
+<br>
+🤝 I’m looking for help with: AI/ML, Data Science tools
 <br>
 💬 Ask me about: Astronomy
 <br>
