@@ -14,7 +14,7 @@ Feel free to contact me regarding any of the related subjects. Also, I am an ast
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devarshi31) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/devarshi-kashiwala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devarshi_3112) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devarshi31) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/devarshi-kashiwala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white (https://x.com/Devarshi_3112) 
 
 
 # 💻 Tech Stack:
