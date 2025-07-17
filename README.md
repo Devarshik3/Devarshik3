@@ -1,10 +1,3 @@
-# 💫 About Me:
-<h3> Hello!!</h3>
-<p>I'm a computer science and engineering graduate. My all tasks are uploaded. Here, let's collab and help each other with our work. 
- </p>
-<br>
-
-<br>
 ⚡ Fun fact: <b> If you find any errors in your code, stay calm and cool—it's probably just an unwanted comma!
 
 
